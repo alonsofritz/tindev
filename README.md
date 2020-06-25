@@ -2,7 +2,7 @@
 Semana Omnistack 8.0 - Tindev: Aplicação integrada a API do GitHub para encontrar e facilitar o contato entre Desenvolvedores.
 
 <h3 align="center">
-    <img alt="Capa" title="#capa" width="500px" src=".github/logo_tindev.png">
+    <img alt="header" title="#header" width="300px" src=".github/logo_tindev.png">
 </h3>
 
 # Índice
@@ -34,8 +34,8 @@ Essa aplicação foi construída na <strong>Semana Omnistack 8.0</strong> distri
 
 <h1 align="center">
     <img alt="Web" src=".github/Home.png" width="450px">
-    <img alt="Web" src=".github/Main.png" width="900px">
-    <img alt="Web" src=".github/Match.png" width="900px">
+    <img alt="Web" src=".github/Main.png" width="450px">
+    <img alt="Web" src=".github/Match.png" width="450px">
 </h1>
 
 ### Resultado MOBILE:
