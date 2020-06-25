@@ -1,3 +1,7 @@
+<h3 align="center">
+    <img alt="header" title="#header" width="300px" src=".github/logo_tindev.png">
+</h3>
+
 # Índice
 
 - [Sobre](#sobre)
