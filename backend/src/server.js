@@ -19,7 +19,7 @@ io.on('connection', socket => {
 });
 
 // Conexão com o Banco MongoDB
-mongoose.connect('mongodb+srv://dev:dev@cluster0-c5yek.mongodb.net/tindev?retryWrites=true&w=majority', { 
+mongoose.connect('[SUA URL DO MONGODB AQUI]', { 
     useUnifiedTopology: true, 
     useNewUrlParser:true 
 });

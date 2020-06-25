@@ -1,10 +1,3 @@
-# tindev
-Semana Omnistack 8.0 - Tindev: Aplicação integrada a API do GitHub para encontrar e facilitar o contato entre Desenvolvedores.
-
-<h3 align="center">
-    <img alt="header" title="#header" width="300px" src=".github/logo_tindev.png">
-</h3>
-
 # Índice
 
 - [Sobre](#sobre)
@@ -33,9 +26,9 @@ Essa aplicação foi construída na <strong>Semana Omnistack 8.0</strong> distri
 ### Resultado WEB:
 
 <h1 align="center">
-    <img alt="Web" src=".github/Home.png" width="600px">
-    <img alt="Web" src=".github/Main.png" width="600px">
-    <img alt="Web" src=".github/Match.png" width="600px">
+    <img alt="Web" src=".github/Home.png" width="800px">
+    <img alt="Web" src=".github/Main.png" width="800px">
+    <img alt="Web" src=".github/Match.png" width="800px">
 </h1>
 
 ### Resultado MOBILE:
@@ -64,22 +57,21 @@ Essa aplicação foi construída na <strong>Semana Omnistack 8.0</strong> distri
   # Instale as dependências
   $ yarn
 
-  ## Crie o banco de dados
-  $ cd server
-  $ npm run knex:migrate
-  $ npm run knex:seed
-
   # Inicie a API
-  $ npm run dev
+  $ cd backend
+  $ yarn dev
+
+  ## Insira a URL do MongoDB no arquivo server.js Linha 22 [SUA URL DO MONGODB AQUI]
 
   # Inicie a aplicação web
-  $ cd web
-  $ npm start
+  $ cd frontend
+  $ yarn start
 
   # Inicie a aplicação mobile
-  $ cd mobile
-  $ npm start
+  $ cd tindev
+  $ yarn start
 ```
+Nota: Se você optar por iniciar o aplicativo móvel no emulador Android, será necessário iniciar o emulador antes de usar o comando `yarn start`.
 
 ## Ministrado por:
 
@@ -91,10 +83,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 </br>
 </br>
-
-<h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
-</h3>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
