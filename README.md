@@ -33,9 +33,9 @@ Essa aplicação foi construída na <strong>Semana Omnistack 8.0</strong> distri
 ### Resultado WEB:
 
 <h1 align="center">
-    <img alt="Web" src=".github/Home.png" width="450px">
-    <img alt="Web" src=".github/Main.png" width="450px">
-    <img alt="Web" src=".github/Match.png" width="450px">
+    <img alt="Web" src=".github/Home.png" width="600px">
+    <img alt="Web" src=".github/Main.png" width="600px">
+    <img alt="Web" src=".github/Match.png" width="600px">
 </h1>
 
 ### Resultado MOBILE:
